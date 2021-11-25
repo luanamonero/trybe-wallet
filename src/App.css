@@ -1,0 +1,134 @@
+.form-2 {
+  display: flex;
+  flex-direction: row;
+}
+
+
+body {
+  background-image: url('https://img.freepik.com/fotos-gratis/palco-cientifico-3d-preto-com-luzes-de-neon-verdes_167650-1673.jpg?size=626&ext=jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6em;
+}
+
+.nav-color {
+  color: antiquewhite;
+  padding: 5px;
+}
+
+.conf {
+  text-align: center;
+}
+
+.card-container2.card2 {
+  color: antiquewhite;
+  padding: 40px;
+  width: 350px;
+}
+
+.card2 {
+  background-color: #070606c4;
+  border-radius: 2px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  padding: 20px 25px 30px;
+}
+
+.profile-img-card {
+  border-radius: 50%;
+  display: block;
+  height: 96px;
+  margin: 0 auto 10px;
+  width: 96px;
+}
+
+.profile-name-card {
+  color: black;
+  font-size: 16px;
+  margin: 10px 0 0;
+  min-height: 1em;
+  text-align: center;
+}
+
+
+.form-signin button {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 10px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.form-signin input {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 10px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.form-signin .form-control:focus {
+  border-color: rgb(104, 145, 162);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgb(104, 145, 162);
+  outline: 0;
+}
+
+
+.forgot-password {
+  color: rgb(104, 145, 162);
+}
+
+.header-theme {
+  background-color: whitesmoke;
+  color: #070606c4;
+  display: flex;
+  font-size: 1.4rem;
+  padding: 15px;
+}
+
+.img-header {
+  width: 200px;
+}
+
+.header-span {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 0;
+  width: 50%;
+}
+
+.form-wallet {
+  margin: auto;
+}
+
+.form-wallet-1 {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 8px 5px;
+  padding: 5px 8px;
+  width: 130px;
+}
+
+.form-wallet-2 {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 8px 5px;
+  padding: 5px 8px;
+  width: 100px;
+}
+
+.btn-file {
+  background-color: red;
+  border-radius: 5px;
+  height: 40px;
+  padding: 5px;
+  width: 40px;
+}
+
+.btntable {
+  margin-left: 5px;
+}
